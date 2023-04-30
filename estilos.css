@@ -1,0 +1,41 @@
+.navbar{ 
+    background-color: blueviolet;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.container-fluid{ 
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+  }
+body{ color: rgb(228, 205, 73);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: blueviolet;
+    }
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:blanchedalmond;
+    font-family: 'EB Garamond', serif;
+  }
+.contenedor{
+display:inline-flex;
+flex-direction: column;
+flex-wrap: wrap;
+height: 600px;
+}
+h3{
+    font-family: 'EB Garamond', serif;
+    
+  }
+p{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+  }
+  input{
+    font-family: 'EB Garamond', serif;
+    background-color: antiquewhite;
+    text-align: center;
+  }
